@@ -1,4 +1,4 @@
-# Applied-Machine-Learning-
+# Applied Machine Learning
 
 Disease Prediction Project 
 
